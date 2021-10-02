@@ -3,7 +3,7 @@ Sparks Foundation Internship Task 1 : **Prediction Using Supervised ML**
 
 ***Author:-*** *KANKANA DAS*
 
-***Elucidation:-*** *Predicting the score if a student studies for 9.25hrs/day*
+***Elucidation:-*** *Predicting the percentage of an student based on the no. of study hours.*
 
 ***Type:-*** *Simple Linear Regression*
 
